@@ -5,6 +5,8 @@ Collect logs directly from Ruby on Rails projects.
 Ruby 2.7.0 or newer
 Rails 6.1.4.2 or newer
 
+You can learn more about using Logtail in Ruby on Rails projects in our [official docs](https://logtail-main.readme.io/docs/installing-logtail-2).
+
 # Installation and setup
 
 You can install Logtail to your Rails projects using the Ruby Bundler.
